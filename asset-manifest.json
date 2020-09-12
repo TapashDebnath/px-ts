@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/px-ts-project/static/css/main.0fe1010a.chunk.css",
+    "main.js": "/px-ts-project/static/js/main.c8ece2a8.chunk.js",
+    "main.js.map": "/px-ts-project/static/js/main.c8ece2a8.chunk.js.map",
+    "runtime-main.js": "/px-ts-project/static/js/runtime-main.6fc0edfb.js",
+    "runtime-main.js.map": "/px-ts-project/static/js/runtime-main.6fc0edfb.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/px-ts-project/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c7091a44.chunk.js": "/px-ts-project/static/js/2.c7091a44.chunk.js",
+    "static/js/2.c7091a44.chunk.js.map": "/px-ts-project/static/js/2.c7091a44.chunk.js.map",
+    "index.html": "/px-ts-project/index.html",
+    "precache-manifest.b51f2f6a571a092e254ec3befe136551.js": "/px-ts-project/precache-manifest.b51f2f6a571a092e254ec3befe136551.js",
+    "service-worker.js": "/px-ts-project/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/px-ts-project/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.0fe1010a.chunk.css.map": "/px-ts-project/static/css/main.0fe1010a.chunk.css.map",
+    "static/js/2.c7091a44.chunk.js.LICENSE.txt": "/px-ts-project/static/js/2.c7091a44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fc0edfb.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c7091a44.chunk.js",
+    "static/css/main.0fe1010a.chunk.css",
+    "static/js/main.c8ece2a8.chunk.js"
+  ]
+}
